@@ -53,12 +53,12 @@ const Page3 = () => {
                 width='100%'
                 height='100vh'
                 image={image}
-                title='360 Virtual Tour'
-                previewTitle ="360 Virtual Tour"
-                author="Ken Tandrian"
-                previewAuthor="Ken Tandrian"
+                title='Taman Fatahilah'
+                previewTitle ="Taman Fatahilah"
+                author="Dhiki Fauzan"
+                previewAuthor="Dhiki Fauzan"
                 // @ts-ignore
-                authorURL="https://github.com/KenTandrian"
+                authorURL="https://github.com/Fouz7"
                 pitch={10}
                 yaw={180}
                 hfov={110}
